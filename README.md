@@ -6,7 +6,7 @@ This project analyzes historical data from the modern Olympic Games, covering th
 
 **Gender Distribution Over Time:**
 
-•	Analyzed the percentage of female athletes participating in the Olympics over time, noting an increase to 25.07% over the years.
+Analyzed the percentage of female athletes participating in the Olympics over time, noting an increase to 25.07% over the years.
 
   ![image](https://github.com/user-attachments/assets/a8a4b499-b7e0-4664-8753-f3c44aef58a2)
   ![image](https://github.com/user-attachments/assets/5fcb0ecb-c943-4f54-9546-302ee6e6b118)
@@ -15,18 +15,18 @@ This project analyzes historical data from the modern Olympic Games, covering th
 
 **Summer vs. Winter Games Comparison:**
 
-•	Compared the Summer and Winter Olympic Games in terms of the number of athletes, countries participating, and events held. Found that summer games had more athletes, more countries participating, and more events compared to winter games.
+Compared the Summer and Winter Olympic Games in terms of the number of athletes, countries participating, and events held. Found that summer games had more athletes, more countries participating, and more events compared to winter games.
 
 ![image](https://github.com/user-attachments/assets/28f140be-42a4-4956-b3f1-301b15a67bb8)
 ![image](https://github.com/user-attachments/assets/2d20e13a-4133-4a89-8566-42f5b1d7d40d)
 
 **Country-Level Trends:**
 
-•	Identified countries that send the most athletes and examined whether they also tend to win the most medals. Found that USA sends the most athletes (9653) and also USA has won the most medals (5637)
+Identified countries that send the most athletes and examined whether they also tend to win the most medals. Found that USA sends the most athletes (9653) and also USA has won the most medals (5637)
 
-•	The top 5 countries by participation: USA, GBR, FRA, ITA, GER
+The top 5 countries by participation: USA, GBR, FRA, ITA, GER
 
-•	The top 5 countries by medals won: USA, URS (Soviet Union), GER, GBR, FRA.
+The top 5 countries by medals won: USA, URS (Soviet Union), GER, GBR, FRA.
     
 ![image](https://github.com/user-attachments/assets/09c3dc1a-819a-4e19-936a-2788fa84b519) 
 ![image](https://github.com/user-attachments/assets/fb3429fb-3666-4560-b510-f0875a9ae1f0)
@@ -45,6 +45,11 @@ Based on the analysis, here are my recommendations;
 
 **Process (SQL - Azure SQL Database)**
 
+Imported the data into Power BI by connecting to the database using the SELECT * FROM the table. I intended to get all the data and utilize DAX to create measures before visualizing the data. 
+
+![image](https://github.com/user-attachments/assets/38c3fb30-9e32-4251-838b-d89c1ea8866a)
+
+![image](https://github.com/user-attachments/assets/a2003f8f-c086-45a9-b199-530465937a13)
 
 **Conclusion**
 
